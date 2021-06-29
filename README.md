@@ -2,10 +2,9 @@
 Mail Us Here: [admin@bluprnt.org]
 
 # Mission
-Empowering People to Do Better
-A Transport for Ideas to Grow
+Empowering People to Do Better => A Transport for Ideas to Grow
 
-![300] (https://bluprnt.org/the-tale-of-an-idea-city/)
+Vision: https://bluprnt.org/the-tale-of-an-idea-city/
 
 A Community built on Virtuous Spontaneity
 We are building self sustaining communication and learning protocols to facilitate desperately needed global innovation
