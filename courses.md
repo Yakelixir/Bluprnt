@@ -1,109 +1,90 @@
-Bluprnt Playbook
+# Bluprnt Playbook -- Public Reference
+### A methodology for collaboration driven communities
 
-Public Reference
+### Version 1.0
 
-A methodology for collaboration driven communities
 
-Version 1.0
 
-Authors
+### Authors
+- Bryant Stratton
+- Ben Holleran
 
-Bryant Stratton
-
-Ben Holleran
-
-Contributors
-
-Dan Rios
-
-Jon Griffin
-
-Michael Newlin
-
-Brian Kearns
+### Contributors
+- Dan Rios
+- Jon Griffin
+- Michael Newlin
+- Brian Kearns
 
 * * * * *
 
-Table Of Contents {#h.mhbgsr77sryh .c12}
+Table Of Contents
 =================
 
-[Table Of Contents](#h.mhbgsr77sryh)        [2](#h.mhbgsr77sryh)
+[Table Of Contents](#table-of-contents)
 
-[Preface](#h.v6yl5d39wker)        [4](#h.v6yl5d39wker)
+[Preface](#preface)
 
-[Our Mission](#h.stdo7df2sydy)        [4](#h.stdo7df2sydy)
+[Our Mission](#our-mission)
 
-[Our promise](#h.t4jvetrpmn90)        [4](#h.t4jvetrpmn90)
+[Our promise](#our-promise)
 
-[For clarification](#h.wommndm7r6da)        [5](#h.wommndm7r6da)
+[For clarification](#for-clarification)
 
-[Join or build, it’s up to
-you.](#h.1xptoyhu15w1)        [5](#h.1xptoyhu15w1)
+[Join or build, it’s up to you.](#join-or-build,-it’s-up-to-you.)
 
-[Chapter 1 - Why](#h.w4ul9mbxbjqh)        [6](#h.w4ul9mbxbjqh)
+[Chapter 1 - Why](#chapter-1---why)
 
-[Why Community?](#h.tgt3k22h7866)        [6](#h.tgt3k22h7866)
+[Why Community?](#why-community?)
 
-[Why Us?](#h.husuflkoopah)        [7](#h.husuflkoopah)
+[Why Us?](#why-us?)
 
-[We are, and always will
-be](#h.w2tpc9qq8q2x)        [7](#h.w2tpc9qq8q2x)
+[We are, and always will be](#we-are,-and-always-will-be)
 
-[Achieving dreams](#h.hau9dwung6xx)        [8](#h.hau9dwung6xx)
+[Achieving dreams](#achieving-dreams)
 
-[Chapter 2 - Details](#h.gfnh9jx4bbkw)        [9](#h.gfnh9jx4bbkw)
+[Chapter 2 - Details](#chapter-2---details)
 
-[The Foundation](#h.glr84c4utl32)        [9](#h.glr84c4utl32)
+[The Foundation](#the-foundation)
 
-[Sharing Ideas: Quantum
-Collapse](#h.98jbf8h80n7u)        [9](#h.98jbf8h80n7u)
+[Sharing Ideas: Quantum Collapse](#sharing-ideas:-quantum-collapse)
 
-[Passion without
-Direction](#h.vpenbqmqfhvt)        [10](#h.vpenbqmqfhvt)
+[Passion without Direction](#passion-without-direction)
 
-[Leader - Leader](#h.8qhd89h11r4j)        [10](#h.8qhd89h11r4j)
+[Leader - Leader](#leader---leader)
 
-[First follower](#h.c1b8r5yrwtet)        [11](#h.c1b8r5yrwtet)
+[First follower](#first-follower)
 
-[Chapter 3 - Ethics](#h.fdguq5bxbala)        [13](#h.fdguq5bxbala)
+[Chapter 3 - Ethics](#chapter-3---ethics)
 
-[Actor and Director](#h.nkb3seej35hu)        [13](#h.nkb3seej35hu)
+[Actor and Director](#actor-and-director)
 
-[Ethical direction](#h.vehioyvwmcgg)        [13](#h.vehioyvwmcgg)
+[Ethical direction](#ethical-direction)
 
-[Chapter 4 - Governance](#h.h7d9yqox72jq)        [15](#h.h7d9yqox72jq)
+[Chapter 4 - Governance](#chapter-4---governance)
 
-[Will there be a parent body like
-governance?](#h.pgj0rkaw8fog)        [15](#h.pgj0rkaw8fog)
+[Will there be a parent body like governance?](#will-there-be-a-parent-body-like-governance?)
 
-[What is the role of
-governance?](#h.b754m95u64mi)        [15](#h.b754m95u64mi)
+[What is the role of governance?](#what-is-the-role-of-governance?)
 
-[What are the responsibilities of the community and the parent
-body?](#h.pe3b8d7xrtc8)        [15](#h.pe3b8d7xrtc8)
+[What are the responsibilities of the community and the parent body?](#what-are-the-responsibilities-of-the-community-and-the-parent-body?)
 
-[Chapter 5 - How it works](#h.fsh70jt2lbes)        [17](#h.fsh70jt2lbes)
+[Chapter 5 - How it works](#chapter-5---how-it-works)
 
-[How we can inspire people to take
-action](#h.i8x3t1o4pj2)        [17](#h.i8x3t1o4pj2)
+[How we can inspire people to take action](#how-we-can-inspire-people-to-take-action)
 
-[How can we help people achieve their
-dreams?](#h.i4gxa4d9xt4e)        [17](#h.i4gxa4d9xt4e)
+[How can we help people achieve their dreams?](#how-can-we-help-people-achieve-their-dreams?)
 
-[Flow of value through the
-system](#h.vsuzcc9bcsuv)        [18](#h.vsuzcc9bcsuv)
+[Flow of value through the system](#flow-of-value-through-the-system)
 
-[Motivation &
-Accountability](#h.mh8xo7oh89kq)        [18](#h.mh8xo7oh89kq)
+[Motivation & Accountability](#motivation-&-accountability)
 
-[Bootstrap with mission, values, and
-focus](#h.l2953pucfby7)        [19](#h.l2953pucfby7)
+[Bootstrap with mission, values, and focus](#bootstrap-with-mission,-values,-and-focus)
 
-[Examples](#h.sd6gwf6iws5e)        [20](#h.sd6gwf6iws5e)
+[Examples](#examples)
 
-[A story of an idea city](#h.klp60awjph0u)        [20](#h.klp60awjph0u)
+[A story of an idea city](#a-story-of-an-idea-city)
 
-[Notes](#h.8p6w2h9gi58x)        [22](#h.8p6w2h9gi58x)
+[Notes](#notes)
 
  {#h.pcyvegsk0hxq .c22 .c18}
 
