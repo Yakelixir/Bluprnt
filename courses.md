@@ -86,16 +86,16 @@ Table Of Contents
 
 [Notes](#notes)
 
- {#h.pcyvegsk0hxq .c22 .c18}
+ 
 
 * * * * *
 
- {#h.rp37fuo7o367 .c22 .c18}
+ 
 
-Preface {#h.v6yl5d39wker .c12}
+Preface
 =======
 
-Our Mission {#h.stdo7df2sydy .c3}
+Our Mission 
 -----------
 
 As Founders we need lots of support during our journey, and while there
@@ -113,7 +113,7 @@ In the rest of this document we will chart the high-level sections of
 our findings for you, help you find a community to join, or build a
 community of your own in/with us.
 
-Our promise {#h.t4jvetrpmn90 .c3}
+Our promise 
 -----------
 
 We promise to continue to develop our system of organization in pursuit
@@ -130,9 +130,9 @@ of the following.
 
 * * * * *
 
- {#h.qxibtendcjvm .c3 .c20}
+ 
 
-For clarification {#h.wommndm7r6da .c3}
+For clarification 
 -----------------
 
 This playbook is:
@@ -149,7 +149,7 @@ This playbook is not:
 -   A constitution
 -   A patent
 
-Join or build, it’s up to you. {#h.1xptoyhu15w1 .c3}
+Join or build, it’s up to you. 
 ------------------------------
 
 Since communities are so centered around missions and shared visions,
@@ -172,10 +172,10 @@ the desire to build without the resolve to finish.
 
 * * * * *
 
-Chapter 1 - Why {#h.w4ul9mbxbjqh .c12}
+Chapter 1 - Why 
 ===============
 
-Why Community? {#h.tgt3k22h7866 .c3}
+Why Community? 
 --------------
 
 Think of the number of great ideas in the world that are on the back
@@ -211,9 +211,9 @@ place.
 
 * * * * *
 
- {#h.50rv5ig205dp .c22 .c18}
+ 
 
-Why Us? {#h.husuflkoopah .c3}
+Why Us? 
 -------
 
 Because we do what we talk about and have put our lives
@@ -271,7 +271,7 @@ Horowitz](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Ben_Horowit
 Various Great Tradition literature: The Gita, The Bible, Tao Te Ching,
 etc
 
-### We are, and always will be {#h.w2tpc9qq8q2x .c30 .c43}
+### We are, and always will be 
 
 A bunch of folks making lives better on a tandem unicycle
 
@@ -282,9 +282,9 @@ will be less stupid tomorrow.
 
 * * * * *
 
- {#h.hau9dwung6xx .c3 .c20}
+ 
 
-Achieving dreams {#h.e5yjayi3eyp .c3}
+Achieving dreams 
 ----------------
 
 Dreams are as prominent as the need for water. We soar through a sea of
@@ -315,12 +315,12 @@ the end of the day interdependent.
 
 * * * * *
 
- {#h.s2v9vzkrrf5s .c12 .c18}
+ 
 
-Chapter 2 - Details {#h.gfnh9jx4bbkw .c12}
+Chapter 2 - Details 
 ===================
 
-The Foundation {#h.glr84c4utl32 .c3}
+The Foundation 
 --------------
 
 A community is built on it’s missions and values, and to be stable, the
@@ -341,7 +341,7 @@ onto a stable set of missions and values.
 See the Leader - Leader section for a better explanation of how to
 empower people to lead themselves.
 
-Sharing Ideas: Quantum Collapse {#h.98jbf8h80n7u .c3}
+Sharing Ideas: Quantum Collapse 
 -------------------------------
 
 Imagine working with someone you are trying to teach. You have explained
@@ -362,7 +362,7 @@ step process where the idea is tossed back and forth running through
 Quantum Collapse with each serve. Through these conversations, both
 people know that they understand the same idea.
 
-Passion without Direction {#h.vpenbqmqfhvt .c3}
+Passion without Direction 
 -------------------------
 
 What happens when you burn fuel without a container? It goes everywhere,
@@ -394,7 +394,7 @@ robot-like behavior. Adding more oil to the team is not the answer.
 We have found that the answer is a mixture of good leaders, simple
 processes, and motivation paired to personality. \
 
-Leader - Leader {#h.8qhd89h11r4j .c3}
+Leader - Leader 
 ---------------
 
 Recently we came across a book called turn the ship around by David
@@ -437,7 +437,7 @@ goals. The tradeoff for this pre-work, is the explosion of effort that
 comes from leadership at the lowest levels of the organization driving
 their own goals forward.
 
-First follower {#h.c1b8r5yrwtet .c3}
+First follower 
 --------------
 
 [‘The first follower transforms a lone nut into a
@@ -459,9 +459,9 @@ chicken and the egg. This doesn’t start without both.
 
 * * * * *
 
- {#h.kqgwwcq1odqu .c22 .c18}
+ 
 
-Chapter 3 - Ethics {#h.fdguq5bxbala .c22}
+Chapter 3 - Ethics 
 ==================
 
 There needs to be a balance between ego and profit, between people and
@@ -470,7 +470,7 @@ similar “road to hell/off the deep end” outcomes. In order to achieve
 this we have found a system of actor director as described below to be
 extremely effective.
 
-Actor and Director {#h.nkb3seej35hu .c3}
+Actor and Director 
 ------------------
 
 Imagine a stage where you have a number of actors doing what actors do
@@ -505,7 +505,7 @@ From there everyone goes back out into their part of the woods or as the
 story goes, they go back out into the part of the woods that looks
 darkest to them.
 
-Ethical direction {#h.vehioyvwmcgg .c3}
+Ethical direction 
 -----------------
 
 On the note of interdependence that we left on, over the years we have
@@ -530,17 +530,17 @@ make life better and at the same time the inverse.
 
 * * * * *
 
-Chapter 4 - Governance {#h.h7d9yqox72jq .c12}
+Chapter 4 - Governance 
 ======================
 
-Will there be a parent body like governance? {#h.pgj0rkaw8fog .c3}
+Will there be a parent body like governance? 
 --------------------------------------------
 
 Does there need to be a parent body? Yes and no. But we mean by this is
 that there needs to be someone that focuses on survival and someone that
 focuses on play. At the end of the day they both must find it fun.
 
-What is the role of governance? {#h.b754m95u64mi .c3}
+What is the role of governance? 
 -------------------------------
 
 To help people pursue a “highest good”
@@ -549,7 +549,7 @@ To automate themselves out of a job
 
 To Kearn the way forward.
 
-What are the responsibilities of the community and the parent body? {#h.pe3b8d7xrtc8 .c3}
+What are the responsibilities of the community and the parent body? 
 -------------------------------------------------------------------
 
 How do these two objects interact? For example we have a parent and a
@@ -594,12 +594,12 @@ know that what needs to be discussed is going to be.
 
 * * * * *
 
- {#h.zcq40xpy01jd .c12 .c18}
+ 
 
-Chapter 5 - How it works {#h.fsh70jt2lbes .c12}
+Chapter 5 - How it works 
 ========================
 
-How we can inspire people to take action {#h.i8x3t1o4pj2 .c3}
+How we can inspire people to take action 
 ----------------------------------------
 
 Everyone is seeking the idea of meaning in what they want to do. This
@@ -609,7 +609,7 @@ for us is the idea of success. When people find that they have a path to
 success or are successful they tend to act in a manner that is more
 “civil”.
 
-How can we help people achieve their dreams? {#h.i4gxa4d9xt4e .c3}
+How can we help people achieve their dreams? 
 --------------------------------------------
 
 By giving through a process that involves sorting and categorization of
@@ -632,9 +632,9 @@ each stakeholder including the idea as well as any contributors.
 
 * * * * *
 
- {#h.9cie4chzmcrc .c3 .c20}
+ 
 
-Flow of value through the system {#h.vsuzcc9bcsuv .c3}
+Flow of value through the system 
 --------------------------------
 
 If you look at the diagram start with yellow, move to green, and then
@@ -651,9 +651,9 @@ that achieves the outcome of a circular economy.![](images/image1.jpg)
 -   Perspective
 -   Accountability
 
- {#h.fsd33lnsb4a4 .c3 .c20}
+ 
 
-Motivation & Accountability {#h.mh8xo7oh89kq .c3}
+Motivation & Accountability 
 ---------------------------
 
 Everyone wants to be loved, No one wants to be seen. This maps to the
@@ -674,9 +674,9 @@ at us.”^[[1]](#ftnt1)^
 
 * * * * *
 
- {#h.m3wl9r32v462 .c3 .c20}
+ 
 
-Bootstrap with mission, values, and focus {#h.l2953pucfby7 .c3}
+Bootstrap with mission, values, and focus 
 -----------------------------------------
 
 A community needs a leader, a seed, to start the crystallization
@@ -694,12 +694,12 @@ themselves.
 
 * * * * *
 
- {#h.mhbi31e5iu2n .c12 .c18}
+ 
 
-Example {#h.sd6gwf6iws5e .c12}
+Example 
 =======
 
-[A story of an idea city](https://www.google.com/url?q=https://bluprnt.org/the-tale-of-an-idea-city/&sa=D&source=editors&ust=1625001094749000&usg=AOvVaw3OEtL_EGUEBv_uWDNQITDZ) {#h.klp60awjph0u .c3}
+[A story of an idea city](https://www.google.com/url?q=https://bluprnt.org/the-tale-of-an-idea-city/&sa=D&source=editors&ust=1625001094749000&usg=AOvVaw3OEtL_EGUEBv_uWDNQITDZ) 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 So imagine yourself in a valley, you’re crossing over a bridge, and you
@@ -775,9 +775,9 @@ Bay is our idea of legacy or human effort 
 
 * * * * *
 
- {#h.nvrq80raxo5y .c22 .c18}
+ 
 
-Notes {#h.8p6w2h9gi58x .c22}
+Notes 
 =====
 
 Leaders encourage
