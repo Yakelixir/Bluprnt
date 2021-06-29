@@ -63,7 +63,8 @@ We are people of integrity that have an honest conversation with ourselves,
 the wide beautiful world, and those around us. We collaborate transparently through a sense of extreme ownership to empower people to innovate.
 
 Tangible and Effective values we take to the table of collaboration…
-Fun&nbsp;
+
+Fun:&nbsp;
 Some of the greatest challenges to innovation are disinterest and apathy.
 
 Objective:&nbsp;
