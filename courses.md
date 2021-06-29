@@ -30,15 +30,15 @@ Table Of Contents
 
 [For clarification](#for-clarification)
 
-[Join or build, it’s up to you.](#join-or-build,-it’s-up-to-you.)
+[Join or build, it’s up to you.](#join-or-build-its-up-to-you)
 
 [Chapter 1 - Why](#chapter-1---why)
 
-[Why Community?](#why-community?)
+[Why Community?](#why-community)
 
-[Why Us?](#why-us?)
+[Why Us?](#why-us)
 
-[We are, and always will be](#we-are,-and-always-will-be)
+[We are, and always will be](#we-are-and-always-will-be)
 
 [Achieving dreams](#achieving-dreams)
 
@@ -46,7 +46,7 @@ Table Of Contents
 
 [The Foundation](#the-foundation)
 
-[Sharing Ideas: Quantum Collapse](#sharing-ideas:-quantum-collapse)
+[Sharing Ideas: Quantum Collapse](#sharing-ideas-quantum-collapse)
 
 [Passion without Direction](#passion-without-direction)
 
@@ -62,23 +62,23 @@ Table Of Contents
 
 [Chapter 4 - Governance](#chapter-4---governance)
 
-[Will there be a parent body like governance?](#will-there-be-a-parent-body-like-governance?)
+[Will there be a parent body like governance?](#will-there-be-a-parent-body-like-governance)
 
-[What is the role of governance?](#what-is-the-role-of-governance?)
+[What is the role of governance?](#what-is-the-role-of-governance)
 
-[What are the responsibilities of the community and the parent body?](#what-are-the-responsibilities-of-the-community-and-the-parent-body?)
+[What are the responsibilities of the community and the parent body?](#what-are-the-responsibilities-of-the-community-and-the-parent-body)
 
 [Chapter 5 - How it works](#chapter-5---how-it-works)
 
 [How we can inspire people to take action](#how-we-can-inspire-people-to-take-action)
 
-[How can we help people achieve their dreams?](#how-can-we-help-people-achieve-their-dreams?)
+[How can we help people achieve their dreams?](#how-can-we-help-people-achieve-their-dreams)
 
 [Flow of value through the system](#flow-of-value-through-the-system)
 
-[Motivation & Accountability](#motivation-&-accountability)
+[Motivation & Accountability](#motivation--accountability)
 
-[Bootstrap with mission, values, and focus](#bootstrap-with-mission,-values,-and-focus)
+[Bootstrap with mission, values, and focus](#bootstrap-with-mission-values-and-focus)
 
 [Examples](#examples)
 
